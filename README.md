@@ -1,3 +1,4 @@
 #MyPackage
+
 ##Installation 
-to install this package import url in SPM.
+To install this package import 'https://github.com/BorisKly/MyPackage.git' in SPM.
